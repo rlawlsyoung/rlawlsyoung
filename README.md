@@ -1,4 +1,6 @@
-<h1 align="center">😃 Hi, I'm front-end developer Kim Jin Young</h1>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=100&section=header&text=😀%20Hi,%20I'm%20front-end%20engineer%20Kim%20Jin%20Young!&fontSize=36" />
+</div>
 
 <h3 align="center"> 👨‍💻 About Me 👨‍💻</h3>
 <p align="center">
@@ -6,12 +8,18 @@
   <br/> I like to develop something steadily. And I also like to learn new techs too.
 </p>
 
+<br/>
+
+<h3 align="center"> 🛠 My Tech Blog & Email 📧</h3>
+
+<p align="center"> Feel free to look around & contact me! </p>
+
   <div align="center">
-  <a href="https://velog.io/@jinyoung985"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jinyoung985"/></a>&nbsp
+  <a href="https://velog.io/@jinyoung985"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jinyoung985"/></a>&nbsp
   <a href="mailto:jinyoung01099@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jinyoung01099@gmail.com"/></a>
 </div>
 
-<br>
+<br/>
 
 <h3 align="center">⚙ My Stacks ⚙</h3>
 
@@ -41,7 +49,7 @@
     
 <br/>
   
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawlsyoung%2Fhit-counter&count_bg=%23BDB0FF&title_bg=%23555555&icon=diaspora.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawlsyoung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
 
   </div>
