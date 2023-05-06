@@ -10,12 +10,13 @@
 
 <br/>
 
-<h3 align="center"> 🛠 My Tech Blog & Email 📧</h3>
+<h3 align="center"> 🛠 My Tech Blog & Portfolio & Email 🛠</h3>
 
 <p align="center"> Feel free to look around & contact me! </p>
 
   <div align="center">
   <a href="https://velog.io/@jinyoung985"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jinyoung985"/></a>&nbsp
+  <a href="https://rlawlsyoung.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=bookstack&logoColor=white&link=https://rlawlsyoung.netlify.app/"/></a>&nbsp
   <a href="mailto:jinyoung01099@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jinyoung01099@gmail.com"/></a>
 </div>
 
