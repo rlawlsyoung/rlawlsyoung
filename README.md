@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=😀%20Hi,%20I'm%20front-end%20engineer%20Kim%20Jin%20Young!&fontSize=36" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20Jin%20Young&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer&descAlignY=51&descAlign=67"/>
 </div>
 
 <h3 align="center"> 👨‍💻 About Me 👨‍💻</h3>
